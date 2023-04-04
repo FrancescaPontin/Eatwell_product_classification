@@ -2,6 +2,7 @@
 
 ## Version 1.0
 
+[![DOI](https://zenodo.org/badge/516698036.svg)](https://zenodo.org/badge/latestdoi/516698036)
 
 This version of the Eatwell classification tool takes product information e.g. (product name, description, shelving categories) and uses the developed text matching algorithms to assign the food product to a segment of the Eatwell Guide. To reflect real-world baskets in addition to the five standard segments defined in the Eatwell guide products can also be classified as an alcoholic beverage, non-alcoholic beverage, discretionary food, composite food, baby/toddler foods, other (e.g. spices and flavouring) or non-food items (i.e. items that may be purchased alongside food items such as kitchen foil, tooth paste etc.). The full category descriptions, logic behind their inclusion and examples are given in table 1. 
 
