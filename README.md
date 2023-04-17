@@ -19,7 +19,7 @@ This version of the Eatwell classification tool takes product information e.g. (
 |Non-alcoholic Beverages | Non-alcoholic drinks (not included in Eatwell guidance)- user discretion to include as discretionary where appropriate |Squash, Cordial, Juice, Fizzy drinks|
 |Composite foods| Foods that are made up of foods in more than one category[^1] |Ready meals, Lasagne, Quiche |
 |Toddler and baby food | Toddlers and babies have different diary recommendations to the Eatwell Guide therefore are separated out for ease |Formula, baby purees | 
-|Other foods |Food items without a significant nutritional contribution i.e. flavorings, herbs, spices, |Dried herbs and spices, pepper, salt | 
+|Other foods |Food items without a significant nutritional contribution i.e. flavourings, herbs, spices, |Dried herbs and spices, pepper, salt | 
 |Non-food items |Products potentially erroneously included as they are typically purchased alongside a food shop| Kitchen foil, Toothpaste, Homeware| 
 
 
